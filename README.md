@@ -1,5 +1,5 @@
 #DrGViswanathan Challenge: 100 Days of Coding 💻
-Welcome to my 100 Days of Coding challenge as part of the #DrGViswanathan initiative! This repository will track my progress as I solve various coding problems from platforms like Codeforces and Leetcode.
+Welcome to my 100 Days of Coding challenge as part of the #DrGViswanathan initiative! This repository will track my progress as I solve various coding problems from platforms like GeeksForGeeks , Codeforces and Leetcode.
 
 🚀 Challenge Overview
 Challenge Name: #DrGViswanathan Challenge
